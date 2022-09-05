@@ -17,7 +17,7 @@ Wyjście: `Bool`
 
 Przykład:
 
-    is_acceptable_password('short') == False
+      is_acceptable_password('short') == False
       is_acceptable_password('short54') == True
       is_acceptable_password('muchlonger') == True
       is_acceptable_password('ashort') == False
